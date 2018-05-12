@@ -1,4 +1,8 @@
 _repo: Musta-nuoli-Kertomus-Ruusujen-ajalta_50215
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stevenson, Robert Louis
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35
     wikipedia: http://en.wikipedia.org/wiki/Robert_Louis_Stevenson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50215#Musta-nuoli-Kertomus-Ruusujen-ajalta
 gutenberg_issued: '2015-10-14'
 gutenberg_type: Text
 identifiers:
